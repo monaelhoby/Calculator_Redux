@@ -1,0 +1,9 @@
+.body-calculator{
+  max-width:200px;
+  padding:10px 25px;
+  background:#e06f6f;
+  margin:auto;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow:2px 2px 2px #000, -2px -2px 2px #000
+}

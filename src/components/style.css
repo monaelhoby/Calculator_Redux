@@ -1,0 +1,45 @@
+.numbers{
+  width:80%;
+  display:inline-block;
+  text-align: left
+}
+.operations{
+  width:20%;
+  display:inline-block
+}
+.buttons{
+  float:none
+}
+.btns{
+  background : #555;
+  border:none;
+  padding:5px 15px;
+  margin: 10px 15px 10px 0;
+  color:#FFF;
+  font-weight:bold;
+  border-radius: 5px;
+  cursor:pointer;
+  box-shadow:1px 1px 1px #000
+}
+.row:nth-of-type(4) .btns:nth-of-type(2){
+  background:rgb(255, 151, 52)
+}
+.btncs{
+  background : #ff4561;
+  border:none;
+  padding:5px 15px;
+  margin: 10px 5px;
+  color:#FFF;
+  font-weight:bold;
+  border-radius: 5px;
+  cursor:pointer;
+  box-shadow:1px 1px 1px #000
+}
+.resultText{
+  height:40px;
+  background:#bccd95;
+  border:1px solid #000;
+  color:#FFF;
+  border:2px solid #EEE;
+  text-align: right
+}
